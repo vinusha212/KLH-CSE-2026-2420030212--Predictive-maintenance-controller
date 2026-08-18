@@ -15,7 +15,7 @@ The system uses simulated **temperature, vibration, and current** sensor data. P
 | ------------- | ------------------------ | ---------- |
 | Team Member   | A. Sharvani              | 2420090052 |
 | Team Member   | K. Anjali                | 2420030170 |
-| Team Member   | M. Vinusha               | 2420030170 |
+| Team Member   | M. Vinusha               | 2420030212 |
 | Project Guide | Dr. Srikanth Cherukuvada | —          |
 
 ### Project Guide
